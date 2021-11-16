@@ -1,5 +1,6 @@
 # Mail-Hunter
 ## _Find professional email addresses of a business from its domain._
+![Build](https://img.shields.io/badge/Status-Beta-red)
 
 Simple python tool to find anyone's email by their site domail.
 
